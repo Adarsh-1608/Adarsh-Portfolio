@@ -435,6 +435,7 @@ a:hover, a:active, a:focus {
 
 #experience .experience-img {
   background: url('../images/experience-img.jpg') no-repeat;
+  min-height: 800px;
 }
 
 #experience .media-heading {
@@ -523,12 +524,12 @@ a:hover, a:active, a:focus {
 #contact .contact-form,
 #contact .contact-thumb {
   padding: 22px 32px 22px 32px;
-  min-height: 95vh;
+  min-height: 785px;
 }
 
 #contact .contact-img {
   background: url('../images/pic2.jpg') no-repeat;
-  height: 98.5vh;
+  min-height: 785px;
 }
 
 #contact .contact-info {
